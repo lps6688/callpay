@@ -27,3 +27,6 @@ extensions.php中加入如下代码
 				),
 		),
 ```
+
+
+Yii::$app->alipay->barPay($bizParams);快速使用吧
